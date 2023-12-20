@@ -1,2 +1,1 @@
 First Kotlin Programm
-[REDACTED]
